@@ -18,16 +18,6 @@ Cassini is a responsive, local-first assessment workspace for entering learner m
 - Produces a combined CSV report, an editable Word-compatible document, and a PDF report.
 - Allows local backup export/import and stores feedback locally as a placeholder for future secure submission.
 
-## Quick start
-
-Open `index.html` in a current browser. For the most reliable file downloads, serve the folder locally:
-
-```sh
-python3 -m http.server 8000
-```
-
-Then visit `http://localhost:8000`.
-
 ## Assessment workflow
 
 1. Enter the institution, session, class, term, year, compiler, and applicable subjects.
